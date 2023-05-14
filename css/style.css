@@ -15,7 +15,14 @@ body {
 }
 
 /*======================================*/
-/* This is MY comment. I'm making some tests */
+/* Making some changes here */
+
+/* I added this */
+.intro-phrase {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
 
 .intro-subtitle {
 color: red;
